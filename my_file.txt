@@ -1,0 +1,6 @@
+This is the first line.
+Here's a number: 1234
+And another line with some text.
+Appending the first additional line.
+Appending another line with a number: 67890
+Appending a final line of text.
